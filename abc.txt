@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D69E-B34E
+
+ Directory of C:\Users\ELCOT\Desktop\malathi
+
+30-07-2019  04:34    <DIR>          .
+30-07-2019  04:34    <DIR>          ..
+30-07-2019  04:34                 0 abc.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  71,469,752,320 bytes free
